@@ -1,0 +1,46 @@
+[{
+        "id": 1,
+
+        "title": "SAKIZ",
+
+        "price": 1,
+
+        "image": "https://productimages.hepsiburada.net/s/22/375/9952480460850.jpg"
+
+
+
+    },
+    {
+        "id": 2,
+
+        "title": "KOLA",
+
+        "price": 6,
+
+        "image": "https://productimages.hepsiburada.net/s/20/500/9879675961394.jpg"
+
+
+    },
+
+    {
+        "id": 3,
+
+        "title": "AYAKKABI",
+
+        "price": 400,
+
+        "image": "https://www.zuum.com.tr/Uploads/UrunResimleri/buyuk/zuumcool---spor-ayakkabi---siyahsneaker-d82a.jpeg"
+
+
+    },
+    {
+        "id": 4,
+
+        "title": "ARABA",
+
+        "price": 4000,
+
+        "image": "https://productimages.hepsiburada.net/s/4/375/9647049769010.jpg"
+    }
+
+]

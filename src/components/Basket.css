@@ -1,0 +1,30 @@
+.basket-container {
+    padding: 10px;
+    border: 1px solid black;
+    background-color: #fff;
+}
+
+.basket-container h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.basket-container h3 {
+    border-top: 1px solid #ddd;
+    padding-top: 15px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    color: #179b17;
+}
+
+.basket-reset {
+    background-color: #61dafb;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 10px;
+    cursor: pointer;
+}
